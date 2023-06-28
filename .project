@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>test-tim</name>
+	<name>stm32-timer-multiple-irqs</name>
 	<comment></comment>
 	<projects>
 	</projects>
