@@ -6,3 +6,9 @@ It's written for STM NUCLEO-L152RE development board, but can be easily ported t
 <p>
 Please read the post at:<br>
 https://aurobo.blogspot.com/2023/06/stm32-general-purpose-timer-as-trigger.html
+</p><p>
+You might be also interested in other posts:<br>
+https://aurobo.blogspot.com/2023/06/stm32-built-in-bootloader.html
+</p>
+
+
